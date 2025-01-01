@@ -1,0 +1,6 @@
+Metric,Precision,Recall,F1-Score,Support,Accuracy
+Live,98.5,90.34,94.24,145,97.45
+Spoof,97.17,99.59,98.36,482,
+Macro Avg,97.83,94.96,96.3,627,
+Weighted Avg,97.47,97.45,97.41,627,
+,,,,,
